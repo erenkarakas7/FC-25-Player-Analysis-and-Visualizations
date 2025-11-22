@@ -81,5 +81,3 @@ To run this project locally, follow these steps:
 * `README.md`: Project documentation.
 
 ---
-**Course:** CEN445 - Introduction to Data Visualization (Fall 2025)
-**Submission Date:** November 16, 2025
